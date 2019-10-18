@@ -1,0 +1,39 @@
+{
+  "libros": [
+    {
+      "nombre": "El gato con botas",
+      "precio": "24",
+      "id": 5
+    },
+    {
+      "nombre": "La colmena 2",
+      "precio": "66",
+      "id": 6
+    },
+    {
+      "nombre": "Estaba vacio antes pero que",
+      "precio": "123",
+      "id": 7
+    },
+    {
+      "nombre": "El quinto pino II",
+      "precio": "1203",
+      "id": 8
+    },
+    {
+      "nombre": "El coco loco",
+      "precio": "55",
+      "id": 9
+    },
+    {
+      "nombre": "El bueno, el feo y el malo",
+      "precio": "22",
+      "id": 10
+    },
+    {
+      "nombre": "La peseta antigua",
+      "precio": "1",
+      "id": 11
+    }
+  ]
+}
